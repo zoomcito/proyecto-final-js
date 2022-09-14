@@ -1,0 +1,33 @@
+[{
+        "id": 1,
+        "nombre": "Los Angeles Lakers local 2021/2022",
+        "precio": "120 USD",
+        "stock": 18,
+        "imagen": "imagenes/lakers1.png"
+
+    },
+    {
+        "id": 7,
+        "nombre": "Philadephia 76ers local 2021/2022",
+        "precio": "120 USD",
+        "stock": 14,
+        "imagen": "imagenes/sixers1.png"
+
+    },
+    {
+        "id": 18,
+        "nombre": "Nike Paranoid Zoom",
+        "precio": "120 USD",
+        "stock": 9,
+        "imagen": "imagenes/zapas6.png"
+
+    },
+    {
+        "id": 17,
+        "nombre": "Nike Kyrie Irving",
+        "precio": "100 USD",
+        "stock": 14,
+        "imagen": "imagenes/zapas5.png"
+
+    }
+]
